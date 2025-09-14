@@ -45,6 +45,7 @@ To create a cloud account in Microsoft Azure and explore all of its services.
 ## Output
 ### Interface
 <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/7a0ca8de-3e19-402a-a35b-839aafb9eebe" />
+
 ### Services in Azure
 <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/675642fd-2386-4c9b-bb5e-4f2c67595ab3" />
 <img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/ab5ad1a3-b04a-4886-af77-27bbe27672cb" />
